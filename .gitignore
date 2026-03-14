@@ -1,0 +1,19 @@
+# Hugo build output
+public/
+
+# Hugo cache and temp files
+.hugo_build.lock
+resources/_gen/
+
+# Node.js (falls später npm-Pakete genutzt werden)
+node_modules/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Hugo
+public
